@@ -7,7 +7,7 @@
 
 #### I am currently learning 📚:
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.stickpng.com%2Fimg%2Ficons-logos-emojis%2Ftech-companies%2Fpython-logo&psig=AOvVaw2KoTI5sEpl5Ex5eY8YV8pP&ust=1607370048823000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLDkrpmOuu0CFQAAAAAdAAAAABAD" width="50" height="50">
+<img src="https://github.com/vinicius-hso/vinicius-hso/blob/main/python.png" width="50" height="50">
 
 #### Follow me
 
