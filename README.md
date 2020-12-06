@@ -7,7 +7,7 @@
 
 #### I am currently learning 📚:
 
-![](https://github.com/vinicius-hso/vinicius-hso/blob/main/python.png =50x50)
+<img src="https://www.stickpng.com/img/icons-logos-emojis/tech-companies/python-logo" width="50" height="50">
 
 #### Follow me
 
