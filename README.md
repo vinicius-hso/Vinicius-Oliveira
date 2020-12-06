@@ -7,7 +7,7 @@
 
 #### I am currently learning 📚:
 
-![](https://github.com/vinicius-hso/vinicius-hso/blob/main/python.pngs=50)
+![](https://github.com/vinicius-hso/vinicius-hso/blob/main/python.png&s=50)
 
 #### Follow me
 
