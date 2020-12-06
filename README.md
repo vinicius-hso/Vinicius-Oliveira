@@ -7,10 +7,10 @@
 
 #### I am currently learning 📚:
 
-* Python
-* HTML
-* CSS
-* JavaScript
+* **Python**
+* **HTML**
+* **CSS**
+* **JavaScript**
 
 #### Follow me
 
