@@ -12,4 +12,6 @@
 * CSS
 * JavaScript
 
-> _"Não pense que é, saiba que é!" - Morpheus_
+----------
+
+> _"Don't think you are, know you are!" - Morpheus_
