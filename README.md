@@ -9,18 +9,10 @@
 
 <img src="https://github.com/vinicius-hso/vinicius-hso/blob/main/python.png" width="50" height="50"> <img src="https://github.com/vinicius-hso/vinicius-hso/blob/main/html450.png" width="50" height="50"> <img src="https://github.com/vinicius-hso/vinicius-hso/blob/main/css450.png" width="50" height="50"> <img src="https://github.com/vinicius-hso/vinicius-hso/blob/main/js.png" width="53" height="53">
 
-#### Follow me
-
-![<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/viniciushso/) 
+#### Follow me on
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viniciushso/)
-
-
-
-https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-
-* [LinkedIn](https://www.linkedin.com/in/viniciushso/)
-* [Instagram](https://www.instagram.com/viniciushso/)
+[![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/viniciushso/)
 
 #### Contact me
 
