@@ -11,8 +11,6 @@
 
 #### Follow me
 
-[![LinkedIn][https://github.com/vinicius-hso/vinicius-hso/blob/main/linkedin.png]][https://www.linkedin.com/in/viniciushso/]
-
 * [LinkedIn](https://www.linkedin.com/in/viniciushso/)
 * [Instagram](https://www.instagram.com/viniciushso/)
 
