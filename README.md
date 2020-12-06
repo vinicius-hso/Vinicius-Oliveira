@@ -5,13 +5,11 @@
 🇧🇷 I'm from Brazil and I'm a musician 🎸 
 
 
-### 📚 I am currently learning:
+### I am currently learning 📚:
 
 * Python
-
 * HTML
-
 * CSS
-
 * JavaScript
 
+> "Não pense que é, saiba que é!" - Morpheus
