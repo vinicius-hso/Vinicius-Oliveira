@@ -7,10 +7,7 @@
 
 #### I am currently learning 📚:
 
-* Python
-* HTML
-* CSS
-* JavaScript
+![](https://github.com/vinicius-hso/vinicius-hso/blob/main/python.pngs=50)
 
 #### Follow me
 
