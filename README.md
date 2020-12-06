@@ -7,8 +7,7 @@
 
 #### I am currently learning 📚:
 
-<img src="https://github.com/vinicius-hso/vinicius-hso/blob/main/python.png" width="50" height="50">
-<img src="https://github.com/vinicius-hso/vinicius-hso/blob/main/html_css_js.png" width="50" height="150">
+<img src="https://github.com/vinicius-hso/vinicius-hso/blob/main/python.png" width="50" height="50"> <img src="https://github.com/vinicius-hso/vinicius-hso/blo/main/html_css_js.png" width="150" height="50">
 
 #### Follow me
 
