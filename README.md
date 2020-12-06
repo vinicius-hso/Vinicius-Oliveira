@@ -12,8 +12,6 @@
 ![](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-<img src="https://github.com/vinicius-hso/vinicius-hso/blob/main/python.png" width="50" height="50"> <img src="https://github.com/vinicius-hso/vinicius-hso/blob/main/html450.png" width="50" height="50"> <img src="https://github.com/vinicius-hso/vinicius-hso/blob/main/css450.png" width="50" height="50"> <img src="https://github.com/vinicius-hso/vinicius-hso/blob/main/js.png" width="53" height="53">
-
 #### Follow me on
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viniciushso/)
