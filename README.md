@@ -5,21 +5,22 @@
 🇧🇷 I'm from Brazil and I'm a musician 🎸 
 
 
-### I am currently learning 📚:
+#### I am currently learning 📚:
 
 * Python
 * HTML
 * CSS
 * JavaScript
 
-### Follow me
+#### Follow me
 
 * [LinkedIn](https://www.linkedin.com/in/viniciushso/)
 * [Instagram](https://www.instagram.com/viniciushso/)
 
-### Contact me
+#### Contact me
 
 * 📧 vinicius.oliveira149@fatec.sp.gov.br
+
 ----------
 
 > _"Don't think you are, know you are!" - Morpheus_
