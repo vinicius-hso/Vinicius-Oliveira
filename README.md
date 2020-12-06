@@ -7,7 +7,7 @@
 
 #### I am currently learning 📚:
 
-![](https://github.com/vinicius-hso/vinicius-hso/blob/main/python.png){:height="50px" width="50px"}
+![](https://github.com/vinicius-hso/vinicius-hso/blob/main/python.png =50x50)
 
 #### Follow me
 
