@@ -12,6 +12,14 @@
 * CSS
 * JavaScript
 
+### Follow me
+
+* [LinkedIn](https://www.linkedin.com/in/viniciushso/)
+* [Instagram](https://www.instagram.com/viniciushso/)
+
+### Contact me
+
+* 📧 vinicius.oliveira149@fatec.sp.gov.br
 ----------
 
 > _"Don't think you are, know you are!" - Morpheus_
