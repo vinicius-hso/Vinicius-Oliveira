@@ -4,7 +4,6 @@
 
 🇧🇷 I'm from Brazil
 
-🎶 'Without music life would be a mistake.'
 
 
 #### 📚 I am currently learning:
