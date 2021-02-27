@@ -2,7 +2,9 @@
 
 👨🏻‍🎓 I'm a System Analisis and Development student at [FATEC - Prof. Jessen Vidal in São José dos Campos/SP](https://fatecsjc-prd.azurewebsites.net/). 
 
-🇧🇷 I'm from Brazil and I'm a musician 🎸 
+🇧🇷 I'm from Brazil
+
+🎶 'Without music life would be a mistake.'
 
 
 #### 📚 I am currently learning:
