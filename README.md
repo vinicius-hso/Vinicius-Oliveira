@@ -24,7 +24,7 @@
 
 #### 📧 Contact me
 
-* vinicius.oliveira149@fatec.sp.gov.br
+* viniciushso@icloud.com
 
 ----------
 
