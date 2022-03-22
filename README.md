@@ -1,6 +1,6 @@
 # Hey! What's up? <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-[link](#🚀-follow-me-on)
+[link](#follow-me-on)
 
 👨🏻‍🎓 I'm a student at [FATEC - Prof. Jessen Vidal in São José dos Campos/SP](https://fatecsjc-prd.azurewebsites.net/). 
 
