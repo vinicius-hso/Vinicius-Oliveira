@@ -1,6 +1,7 @@
 # Hey! What's up? 
 
-My name is Vinicius, but you can call me Vinnie 😉
+My name is Vinicius, but you can call me Vinnie 😉 
+
 
 <!-- estágio technite + ic -->
 <!-- ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) -->
